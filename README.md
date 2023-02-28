@@ -3,7 +3,7 @@
 | aluno | Matrícula |
 |-|-| 
 | Fellipe José Pereira de Oliveira |20231012000762
-| freed | mat
+| freed | matr
 
 <a name="ancora"></a>
 
