@@ -4,7 +4,9 @@
 |-|-| 
 | Fellipe José Pereira de Oliveira |20231012000762
 | freed | mat
+
 <a name="ancora"></a>
+
 **Desenvolver uma EAP que contenha, no mínimo o seguinte:**
 - [Detalhamento do Escopo](#ancora1)
 - [Estrutura de Desmembramento do Trabalho (tarefas principais)](#ancora2)
@@ -20,6 +22,7 @@
 
 ## 1. Detalhamento do Escopo
 <a id="ancora1"></a>
+
 ### 1.1 Definição do projeto:
 O projeto tem como objetivo desenvolver um sistema de gerenciamento de projetos de construção para permitir que os gerentes de projetos monitorem e gerenciem o progresso dos projetos de construção, utilizando ferramentas para gerenciamento de cronogramas, custos, recursos e prazos de entrega, baseados em informações fornecidas por profissionais capacitados que trabalham no projeto. O sistema permitirá que os gerentes de projetos tenham uma visão geral das etapas do projeto, possam tomar decisões com base em informações precisas e aumentar a eficiência e eficácia do gerenciamento de projetos de construção.
 
@@ -52,6 +55,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 2.  Estrutura de Desmembramento do Trabalho
 <a id="ancora2"></a>
+
 ### 2.1 Tarefas principais: 
 
 #### 2.1.1 Planejamento
@@ -83,6 +87,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 3.  Metas de Entrega
 <a id="ancora3"></a>
+
 ### 3.1 Tarefas e prazos estimados
 
 -   Identificação de requisitos do cliente -1 semana
@@ -106,6 +111,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 4. Recursos Humanos Empregados
 <a id="ancora4"></a>
+
 ### 4.1 Papéis e responsabilidades:
 
 - Gerente de Projeto - responsável por liderar a equipe de desenvolvimento do sistema, definir objetivos e metas, gerenciar o cronograma, o orçamento, os riscos e os recursos do projeto, e garantir a qualidade do sistema entregue.
@@ -118,6 +124,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 5. Outros Participantes
 <a id="ancora5"></a>
+
 ### 5.1 Fornecedores:
 
 - Fornecedores de hardware e software para o sistema.
@@ -134,12 +141,14 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 6.  Recursos Materiais Necessários
 <a id="ancora6"></a>
+
 - Computadores, servidores e outros equipamentos de hardware necessários para o desenvolvimento e implantação do sistema.
 - Software de desenvolvimento e ferramentas de gerenciamento de projetos.
 - Materiais de escritório e suprimentos.
 
 ## 7. Riscos Principais
 <a id="ancora6"></a>
+
 ### 7.1 Riscos Técnicos:
 
 - Problemas com a integração de diferentes componentes do sistema.
@@ -154,6 +163,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ## 8.  Fontes de Receita/Recursos
 <a id="ancora8"></a>
+
 ### 8.1 Fontes de receita:
 
 - Venda do sistema de gerenciamento de projetos de construção para empresas de construção.
