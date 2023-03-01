@@ -3,7 +3,7 @@
 | aluno | Matrícula |
 |-|-| 
 | Fellipe José Pereira de Oliveira |20231012000762
-| freed | matr
+| Frederico Medeiros | 20211012000237
 
 <a name="ancora"></a>
 
