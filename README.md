@@ -133,7 +133,7 @@ Desenvolver um sistema que permita gerenciar projetos de construção, fornecend
 
 ### 5.2 Clientes:
 
-- Os clientes serão empresas de construção que utilizarão o sistema para gerenciar seus projetos. 5.1 Fornecedores:
+- Os clientes serão empresas de construção que utilizarão o sistema para gerenciar seus projetos.
 
 ### 5.3 Usuários:
 
